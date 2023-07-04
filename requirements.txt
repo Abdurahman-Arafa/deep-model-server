@@ -1,0 +1,6 @@
+python==3.9
+flask
+flask_cors
+deepspeech
+numpy
+soundfile
